@@ -1,4 +1,3 @@
-# The-Sparks-Foundation-Internship-Tasks
 # Task 1 Submission
 ## By Khaled Sherif
 
